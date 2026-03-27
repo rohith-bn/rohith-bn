@@ -1,4 +1,4 @@
-# Hi, I'm Rohith 
+# Hi, I am Rohith 
 ## git  @rohith-bn
 
 Embedded Firmware Engineer | ARM Cortex-M | WLAN | RTOS
