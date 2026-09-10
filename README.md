@@ -1,40 +1,37 @@
-# Hi, I am Rohith 
-## git  @rohith-bn
+# Hi, I'm Rohith 👋
+### Embedded Firmware & Software Engineer
+📍 Based in Germany | Open to Embedded Systems, Firmware & IoT Roles
 
-Embedded Firmware Engineer | ARM Cortex-M | WLAN | RTOS
+Experienced in developing real-time embedded software in C/C++ on ARM Cortex-M and wireless microcontrollers. Focus on bare-metal firmware, RTOS architectures, communication protocols, and deterministic control systems.
 
-##  About Me
+---
 
-* 3+ years experience in embedded software (WLAN / IoT)
-* Strong in C/C++ firmware development on ARM Cortex-M
-* Experience with Wi-Fi (802.11), power-saving features, debugging
-* Currently in Germany, seeking Embedded Firmware/Software roles
+### 🛠 Core Competencies
+- **Languages:** C (C99/C11), Embedded C++, Python (automation & tooling), Bash
+- **Architectures:** ARM Cortex-M (STM32), ESP32 (ESP-IDF), Tensilica
+- **RTOS & OS:** FreeRTOS, Zephyr RTOS, Embedded Linux fundamentals
+- **Peripherals & Buses:** UART, SPI, I2C, CAN, DMA, Timers/PWM, ADC
+- **Protocols & Wireless:** Wi-Fi (802.11 b/g/n), TCP/IP, MQTT, BLE
+- **Debugging & Tools:** GDB, J-Link / ST-Link, Logic Analyzers, Oscilloscopes, Git, CMake
 
-##  Core Skills
+---
 
-* Embedded C, C++
-* ARM Cortex-M Architecture
-* FreeRTOS
-* UART, SPI, I2C
-* Debugging (GDB, JTAG)
-* Linux basics (for embedded systems)
+### 🚀 Highlighted Engineering Repositories
 
-##  Current Focus
+#### 1. [QFC-1 Flight Controller Firmware & System Design](https://github.com/rohith-bn/flight-controller-firmware-system-design)
+*Deterministic 1 kHz flight stabilization firmware designed from requirements to bench validation.*
+- Structured system design: explicit requirements, context diagrams, and object-oriented C decomposition.
+- Implements complementary attitude estimation, dual-axis PID control, and motor mixing.
+- Hardware-independent control pipeline decoupled from HAL with unit test harness.
 
-* Building low-level firmware from scratch
-* Bootloader development
-* Register-level programming
-* System design for embedded products
-* Exploring Embedded Linux Zypher RTOS
+#### 2. [Embedded Data Structures & Concurrency in C](https://github.com/rohith-bn/Data_Structures_for_Embedded_Systems)
+*Static, deterministic data structures engineered for microcontrollers without heap allocation.*
+- Lock-free Ring Buffer for UART/SPI DMA streaming.
+- Fixed-block memory pool allocator for zero-fragmentation embedded systems.
+- Host-based unit tests compiled with CMake and Unity.
 
-##  Featured Projects
+---
 
-* (In development) STM32 Custom Bootloader
-* Computer Vision and IoT Enabled-Robot for Surveillance
-* Smart City Implementation Using IoT
-
-
-##  Contact
-
-* LinkedIn: https://www.linkedin.com/in/rohithbn/
-* Email: rohith.bn03@gmail.com
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/rohithbn](https://www.linkedin.com/in/rohithbn/)
+- **Email:** rohith.bn03@gmail.com
